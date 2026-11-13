@@ -1,0 +1,6 @@
+{
+  "name": "متابع باند 7",
+  "description": "تطبيق متصل بسوار شاومي باند 7 لعرض كافة بيانات النشاط والنبض والأكسجين والنوم والتمارين عبر البلوتوث",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

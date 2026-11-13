@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">متابع باند 7</string>
+    <string name="band_model_title">شاومي سمارت باند 7</string>
+    <string name="nav_overview">الرئيسية</string>
+    <string name="nav_vitals">النبض</string>
+    <string name="nav_sleep">النوم</string>
+    <string name="nav_workouts">التمارين</string>
+    <string name="nav_device">السوار</string>
+</resources>
